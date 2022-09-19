@@ -1,0 +1,5 @@
+print('Please type your favorite color:')
+x = input( )
+print('And also your favorite food:')
+y = input()
+print('Your favorite color is ' + x + ' and your favorite food is ' + y + '.')
